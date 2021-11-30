@@ -1,7 +1,7 @@
 {
   "name": "o-grafico-amador",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://experimentandotipos.com/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.0.0",
