@@ -1,4 +1,5 @@
 import { Box, Flex, Text } from '@chakra-ui/layout'
+import React from 'react'
 
 const OProjeto = () => {
   return (
@@ -38,7 +39,7 @@ const OProjeto = () => {
 
           O projeto segue a ideia criada para a exposição <i>Experimentando tipos</i>, realizada em
           2011 por Isabella Ribeiro Aragão e Rosângela Vieira com os tipos da Editora UFPE.
-          <i>Experimentando tipos em homenagem a’O Gráfico Amador</i> foi um convite do LPG, em
+          <i> Experimentando tipos em homenagem a’O Gráfico Amador</i> foi um convite do LPG, em
           forma de projeto de extensão, a viver a experiência com o acervo e espírito do grupo.
           Convidamos dez estudantes de Design, cinco designers e cinco artistas para utilizar os
           recursos do laboratório a fim de se expressar e explorar linguagens na tradicional
@@ -53,21 +54,21 @@ const OProjeto = () => {
         </Text>
         <Text fontSize="md">
 
-          <Text fontWeight="bold" mt={5}>Créditos</Text>
-            Coordenação geral Isabella Ribeiro Aragão <br />
-            Vice-coordenação Silvio Barreto Campello <br />
-            Impressão Maciel Cunha <br />
-            Arte educação Luciene Pontes <br />
-            Administração Taciana da Fonte <br />
-            Assistente de produção Raquel Campello <br />
-            Web design Isabella Ribeiro Aragão <br />
-            Produção do site Gustavo Albuquerque <br />
-            Desenvolvimento do site Henrique Gonçalves <br />
-            Audiodescrição Com acessibilidade comunicacional <br />
-            Fotografia e vídeo Josivan Rodrigues <br />
-            Tratamento das fotos Atelier de Impressão <br />
-            Edição de vídeo Leonardo Petty <br />
-            Identidade visual e divulgação Felipe Santos <br />
+        <Text fontWeight="bold" mt={5}>Créditos</Text>
+          Coordenação geral Isabella Ribeiro Aragão <br />
+          Vice-coordenação Silvio Barreto Campello <br />
+          Impressão Maciel Cunha <br />
+          Arte educação Luciene Pontes <br />
+          Administração Taciana da Fonte <br />
+          Assistente de produção Raquel Campello <br />
+          Web design Isabella Ribeiro Aragão <br />
+          Produção do site Gustavo Albuquerque <br />
+          Desenvolvimento do site Henrique Gonçalves <br />
+          Audiodescrição Com acessibilidade comunicacional <br />
+          Fotografia e vídeo Josivan Rodrigues <br />
+          Tratamento das fotos Atelier de Impressão <br />
+          Edição de vídeo Leonardo Petty <br />
+          Identidade visual e divulgação Felipe Santos <br />
         </Text>
       </Box>
     </Flex>

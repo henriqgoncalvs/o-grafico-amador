@@ -38,7 +38,7 @@ const Home = () => (
       >
         <Box bgImage="/assets/incentivo.png" bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.4 }} h="full" w="full" />
         <Box bgImage="/assets/realização.png" bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={1} h="full" w="full" />
-        <Box bgImage="/assets/apoio.png" bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 1.6 }} h="full" w="full" mt={{ base: 5, lg: 0 }} />
+        <Box bgImage="/assets/apoio.png" bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.3 }} h="full" w="full" mt={{ base: 5, lg: 0 }} />
         {/* <Image src="/assets/incentivo.png" h="100px" w="full" flex={1} mx="auto" py={10} /> */}
         {/* <Image src="/assets/realização.png" h="100px" w="full" mx="auto" py={10} flex={1} /> */}
         {/* <Image src="/assets/apoio.png" h="100px" w="full" mx="auto" py={10} flex={1} /> */}
