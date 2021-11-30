@@ -31,7 +31,7 @@ export const ArtCard = ({ bgImg, artistName, id, withoutName = false }: { artist
       </Modal> */}
 
       <Link
-        to={`/galeria?nome=${id}`}
+        to={`/galeria/${id}`}
       >
         <VStack spacing={{ base: 1, md: 2 }} alignItems="center" w="full">
           <Box

@@ -1,3 +1,124 @@
+import ana1 from '../assets/artists/ana/ana1.jpg'
+import ana2 from '../assets/artists/ana/ana2.jpg'
+import ana3 from '../assets/artists/ana/ana3.jpg'
+import ana4 from '../assets/artists/ana/ana4.jpg'
+import ana5 from '../assets/artists/ana/ana5.jpg'
+import ana6 from '../assets/artists/ana/ana6.jpg'
+import camilo1 from '../assets/artists/camilo/camilo1.jpg'
+import camilo2 from '../assets/artists/camilo/camilo2.jpg'
+import camilo3 from '../assets/artists/camilo/camilo3.jpg'
+import camilo4 from '../assets/artists/camilo/camilo4.jpg'
+import camilo5 from '../assets/artists/camilo/camilo5.jpg'
+import camilo6 from '../assets/artists/camilo/camilo6.jpg'
+import clara1 from '../assets/artists/clara/clara1.jpg'
+import clara2 from '../assets/artists/clara/clara2.jpg'
+import clara3 from '../assets/artists/clara/clara3.jpg'
+import clara4 from '../assets/artists/clara/clara4.jpg'
+import clara5 from '../assets/artists/clara/clara5.jpg'
+import clara6 from '../assets/artists/clara/clara6.jpg'
+import daniel1 from '../assets/artists/daniel/daniel1.jpg'
+import daniel2 from '../assets/artists/daniel/daniel2.jpg'
+import daniel3 from '../assets/artists/daniel/daniel3.jpg'
+import daniel4 from '../assets/artists/daniel/daniel4.jpg'
+import daniel5 from '../assets/artists/daniel/daniel5.jpg'
+import daniel6 from '../assets/artists/daniel/daniel6.jpg'
+import edna1 from '../assets/artists/edna/edna1.jpg'
+import edna2 from '../assets/artists/edna/edna2.jpg'
+import edna3 from '../assets/artists/edna/edna3.jpg'
+import edna4 from '../assets/artists/edna/edna4.jpg'
+import edna5 from '../assets/artists/edna/edna5.jpg'
+import edna6 from '../assets/artists/edna/edna6.jpg'
+import filipe1 from '../assets/artists/filipe/filipe1.jpg'
+import filipe2 from '../assets/artists/filipe/filipe2.jpg'
+import filipe3 from '../assets/artists/filipe/filipe3.jpg'
+import filipe4 from '../assets/artists/filipe/filipe4.jpg'
+import filipe5 from '../assets/artists/filipe/filipe5.jpg'
+import filipe6 from '../assets/artists/filipe/filipe6.jpg'
+import isabela1 from '../assets/artists/isabela/isabela1.jpg'
+import isabela2 from '../assets/artists/isabela/isabela2.jpg'
+import isabela3 from '../assets/artists/isabela/isabela3.jpg'
+import isabela4 from '../assets/artists/isabela/isabela4.jpg'
+import isabela5 from '../assets/artists/isabela/isabela5.jpg'
+import isabela6 from '../assets/artists/isabela/isabela6.jpg'
+import jessica1 from '../assets/artists/jessica/jessica1.jpg'
+import jessica2 from '../assets/artists/jessica/jessica2.jpg'
+import jessica3 from '../assets/artists/jessica/jessica3.jpg'
+import jessica4 from '../assets/artists/jessica/jessica4.jpg'
+import jessica5 from '../assets/artists/jessica/jessica5.jpg'
+import jessica6 from '../assets/artists/jessica/jessica6.jpg'
+import juliana1 from '../assets/artists/juliana/juliana1.jpg'
+import juliana2 from '../assets/artists/juliana/juliana2.jpg'
+import juliana3 from '../assets/artists/juliana/juliana3.jpg'
+import juliana4 from '../assets/artists/juliana/juliana4.jpg'
+import juliana5 from '../assets/artists/juliana/juliana5.jpg'
+import juliana6 from '../assets/artists/juliana/juliana6.jpg'
+import larissa1 from '../assets/artists/larissa/larissa1.jpg'
+import larissa2 from '../assets/artists/larissa/larissa2.jpg'
+import larissa3 from '../assets/artists/larissa/larissa3.jpg'
+import larissa4 from '../assets/artists/larissa/larissa4.jpg'
+import larissa5 from '../assets/artists/larissa/larissa5.jpg'
+import larissa6 from '../assets/artists/larissa/larissa6.jpg'
+import mariajulia1 from '../assets/artists/mariajulia/mariajulia1.jpg'
+import mariajulia2 from '../assets/artists/mariajulia/mariajulia2.jpg'
+import mariajulia3 from '../assets/artists/mariajulia/mariajulia3.jpg'
+import mariajulia4 from '../assets/artists/mariajulia/mariajulia4.jpg'
+import mariajulia5 from '../assets/artists/mariajulia/mariajulia5.jpg'
+import mariajulia6 from '../assets/artists/mariajulia/mariajulia6.jpg'
+import mauricio1 from '../assets/artists/mauricio/mauricio1.jpg'
+import mauricio2 from '../assets/artists/mauricio/mauricio2.jpg'
+import mauricio3 from '../assets/artists/mauricio/mauricio3.jpg'
+import mauricio4 from '../assets/artists/mauricio/mauricio4.jpg'
+import mauricio5 from '../assets/artists/mauricio/mauricio5.jpg'
+import mauricio6 from '../assets/artists/mauricio/mauricio6.jpg'
+import mayra1 from '../assets/artists/mayra/mayra1.jpg'
+import mayra2 from '../assets/artists/mayra/mayra2.jpg'
+import mayra3 from '../assets/artists/mayra/mayra3.jpg'
+import mayra4 from '../assets/artists/mayra/mayra4.jpg'
+import mayra5 from '../assets/artists/mayra/mayra5.jpg'
+import mayra6 from '../assets/artists/mayra/mayra6.jpg'
+import philippe1 from '../assets/artists/philippe/philippe1.jpg'
+import philippe2 from '../assets/artists/philippe/philippe2.jpg'
+import philippe3 from '../assets/artists/philippe/philippe3.jpg'
+import philippe4 from '../assets/artists/philippe/philippe4.jpg'
+import philippe5 from '../assets/artists/philippe/philippe5.jpg'
+import philippe6 from '../assets/artists/philippe/philippe6.jpg'
+import regi1 from '../assets/artists/regi/regi1.jpg'
+import regi2 from '../assets/artists/regi/regi2.jpg'
+import regi3 from '../assets/artists/regi/regi3.jpg'
+import regi4 from '../assets/artists/regi/regi4.jpg'
+import regi5 from '../assets/artists/regi/regi5.jpg'
+import regi6 from '../assets/artists/regi/regi6.jpg'
+import renato1 from '../assets/artists/renato/renato1.jpg'
+import renato2 from '../assets/artists/renato/renato2.jpg'
+import renato3 from '../assets/artists/renato/renato3.jpg'
+import renato4 from '../assets/artists/renato/renato4.jpg'
+import renato5 from '../assets/artists/renato/renato5.jpg'
+import renato6 from '../assets/artists/renato/renato6.jpg'
+import rinaldo1 from '../assets/artists/rinaldo/rinaldo1.jpg'
+import rinaldo2 from '../assets/artists/rinaldo/rinaldo2.jpg'
+import rinaldo3 from '../assets/artists/rinaldo/rinaldo3.jpg'
+import rinaldo4 from '../assets/artists/rinaldo/rinaldo4.jpg'
+import rinaldo5 from '../assets/artists/rinaldo/rinaldo5.jpg'
+import rinaldo6 from '../assets/artists/rinaldo/rinaldo6.jpg'
+import rosangela1 from '../assets/artists/rosangela/rosangela1.jpg'
+import rosangela2 from '../assets/artists/rosangela/rosangela2.jpg'
+import rosangela3 from '../assets/artists/rosangela/rosangela3.jpg'
+import rosangela4 from '../assets/artists/rosangela/rosangela4.jpg'
+import rosangela5 from '../assets/artists/rosangela/rosangela5.jpg'
+import rosangela6 from '../assets/artists/rosangela/rosangela6.jpg'
+import sofia1 from '../assets/artists/sofia/sofia1.jpg'
+import sofia2 from '../assets/artists/sofia/sofia2.jpg'
+import sofia3 from '../assets/artists/sofia/sofia3.jpg'
+import sofia4 from '../assets/artists/sofia/sofia4.jpg'
+import sofia5 from '../assets/artists/sofia/sofia5.jpg'
+import sofia6 from '../assets/artists/sofia/sofia6.jpg'
+import vico1 from '../assets/artists/vico/vico1.jpg'
+import vico2 from '../assets/artists/vico/vico2.jpg'
+import vico3 from '../assets/artists/vico/vico3.jpg'
+import vico4 from '../assets/artists/vico/vico4.jpg'
+import vico5 from '../assets/artists/vico/vico5.jpg'
+import vico6 from '../assets/artists/vico/vico6.jpg'
+
 export default [
   {
     id: 'ana',
@@ -6,31 +127,31 @@ export default [
     composicao: ['tipos'],
     images: [
       {
-        src: '/assets/artists/ana/ana1.jpg',
+        src: ana1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/ana/ana2.jpg'
+        src: ana2
       },
       {
-        src: '/assets/artists/ana/ana3.jpg',
+        src: ana3,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/ana/ana4.jpg'
+        src: ana4
       },
       {
-        src: '/assets/artists/ana/ana5.jpg',
+        src: ana5,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/ana/ana6.jpg',
+        src: ana6,
         filter: {
           papel: ['cinza']
         }
@@ -44,34 +165,34 @@ export default [
     composicao: ['tipos'],
     images: [
       {
-        src: '/assets/artists/camilo/camilo1.jpg',
+        src: camilo1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/camilo/camilo2.jpg',
+        src: camilo2,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/camilo/camilo3.jpg',
+        src: camilo3,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/camilo/camilo4.jpg'
+        src: camilo4
       },
       {
-        src: '/assets/artists/camilo/camilo5.jpg',
+        src: camilo5,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/camilo/camilo6.jpg',
+        src: camilo6,
         filter: {
           papel: ['laranja']
         }
@@ -85,34 +206,34 @@ export default [
     composicao: ['clichê'],
     images: [
       {
-        src: '/assets/artists/clara/clara1.jpg',
+        src: clara1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/clara/clara2.jpg'
+        src: clara2
       },
       {
-        src: '/assets/artists/clara/clara3.jpg',
+        src: clara3,
         filter: {
           papel: ['cinza']
         }
       },
       {
-        src: '/assets/artists/clara/clara4.jpg',
+        src: clara4,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/clara/clara5.jpg',
+        src: clara5,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/clara/clara6.jpg'
+        src: clara6
       }
     ]
   },
@@ -123,37 +244,37 @@ export default [
     composicao: ['clichê', 'ornamentos'],
     images: [
       {
-        src: '/assets/artists/daniel/daniel1.jpg',
+        src: daniel1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/daniel/daniel2.jpg',
+        src: daniel2,
         filter: {
           papel: ['branco', 'transparente']
         }
       },
       {
-        src: '/assets/artists/daniel/daniel3.jpg',
+        src: daniel3,
         filter: {
           matriz: ['tipos']
         }
       },
       {
-        src: '/assets/artists/daniel/daniel4.jpg',
+        src: daniel4,
         filter: {
           matriz: ['cliche']
         }
       },
       {
-        src: '/assets/artists/daniel/daniel5.jpg',
+        src: daniel5,
         filter: {
           papel: ['laranja']
         }
       },
       {
-        src: '/assets/artists/daniel/daniel6.jpg',
+        src: daniel6,
         filter: {
           papel: ['transparente']
         }
@@ -167,34 +288,34 @@ export default [
     composicao: ['fios'],
     images: [
       {
-        src: '/assets/artists/edna/edna1.jpg',
+        src: edna1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/edna/edna2.jpg',
+        src: edna2,
         filter: {
           papel: ['cinza']
         }
       },
       {
-        src: '/assets/artists/edna/edna3.jpg',
+        src: edna3,
         filter: {
           papel: ['laranja']
         }
       },
       {
-        src: '/assets/artists/edna/edna4.jpg'
+        src: edna4
       },
       {
-        src: '/assets/artists/edna/edna5.jpg',
+        src: edna5,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/edna/edna6.jpg',
+        src: edna6,
         filter: {
           papel: ['transparente']
         }
@@ -208,34 +329,34 @@ export default [
     composicao: ['tipos'],
     images: [
       {
-        src: '/assets/artists/filipe/filipe1.jpg',
+        src: filipe1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/filipe/filipe2.jpg',
+        src: filipe2,
         filter: {
           papel: ['laranja']
         }
       },
       {
-        src: '/assets/artists/filipe/filipe3.jpg',
+        src: filipe3,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/filipe/filipe4.jpg',
+        src: filipe4,
         filter: {
           papel: ['cinza']
         }
       },
       {
-        src: '/assets/artists/filipe/filipe5.jpg'
+        src: filipe5
       },
       {
-        src: '/assets/artists/filipe/filipe6.jpg',
+        src: filipe6,
         filter: {
           papel: ['branco']
         }
@@ -250,34 +371,34 @@ export default [
     intervencao: ['nanquim'],
     images: [
       {
-        src: '/assets/artists/isabela/isabela1.jpg',
+        src: isabela1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/isabela/isabela2.jpg',
+        src: isabela2,
         filter: {
           matriz: ['cliche']
         }
       },
       {
-        src: '/assets/artists/isabela/isabela3.jpg',
+        src: isabela3,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/isabela/isabela4.jpg'
+        src: isabela4
       },
       {
-        src: '/assets/artists/isabela/isabela5.jpg',
+        src: isabela5,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/isabela/isabela6.jpg',
+        src: isabela6,
         filter: {
           papel: ['cinza']
         }
@@ -291,37 +412,37 @@ export default [
     composicao: ['clichê'],
     images: [
       {
-        src: '/assets/artists/jessica/jessica1.jpg',
+        src: jessica1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/jessica/jessica2.jpg',
+        src: jessica2,
         filter: {
           matriz: ['cliche']
         }
       },
       {
-        src: '/assets/artists/jessica/jessica3.jpg',
+        src: jessica3,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/jessica/jessica4.jpg',
+        src: jessica4,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/jessica/jessica5.jpg',
+        src: jessica5,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/jessica/jessica6.jpg',
+        src: jessica6,
         filter: {
           papel: ['laranja']
         }
@@ -335,37 +456,37 @@ export default [
     composicao: ['tipos'],
     images: [
       {
-        src: '/assets/artists/juliana/juliana1.jpg',
+        src: juliana1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/juliana/juliana2.jpg',
+        src: juliana2,
         filter: {
           papel: ['cinza']
         }
       },
       {
-        src: '/assets/artists/juliana/juliana3.jpg',
+        src: juliana3,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/juliana/juliana4.jpg',
+        src: juliana4,
         filter: {
           papel: ['laranja']
         }
       },
       {
-        src: '/assets/artists/juliana/juliana5.jpg',
+        src: juliana5,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/juliana/juliana6.jpg'
+        src: juliana6
       }
     ]
   },
@@ -376,37 +497,37 @@ export default [
     composicao: ['clichê'],
     images: [
       {
-        src: '/assets/artists/larissa/larissa1.jpg',
+        src: larissa1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/larissa/larissa2.jpg',
+        src: larissa2,
         filter: {
           matriz: ['cliche']
         }
       },
       {
-        src: '/assets/artists/larissa/larissa3.jpg',
+        src: larissa3,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/larissa/larissa4.jpg',
+        src: larissa4,
         filter: {
           papel: ['cinza']
         }
       },
       {
-        src: '/assets/artists/larissa/larissa5.jpg',
+        src: larissa5,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/larissa/larissa6.jpg',
+        src: larissa6,
         filter: {
           papel: ['transparente']
         }
@@ -421,34 +542,34 @@ export default [
     intervencao: ['carimbo'],
     images: [
       {
-        src: '/assets/artists/mariajulia/mariajulia1.jpg',
+        src: mariajulia1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/mariajulia/mariajulia2.jpg',
+        src: mariajulia2,
         filter: {
           matriz: ['tipos']
         }
       },
       {
-        src: '/assets/artists/mariajulia/mariajulia3.jpg',
+        src: mariajulia3,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/mariajulia/mariajulia4.jpg'
+        src: mariajulia4
       },
       {
-        src: '/assets/artists/mariajulia/mariajulia5.jpg',
+        src: mariajulia5,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/mariajulia/mariajulia6.jpg',
+        src: mariajulia6,
         filter: {
           papel: ['transparente']
         }
@@ -462,37 +583,37 @@ export default [
     composicao: ['clichê'],
     images: [
       {
-        src: '/assets/artists/mauricio/mauricio1.jpg',
+        src: mauricio1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/mauricio/mauricio2.jpg',
+        src: mauricio2,
         filter: {
           matriz: ['cliche']
         }
       },
       {
-        src: '/assets/artists/mauricio/mauricio3.jpg',
+        src: mauricio3,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/mauricio/mauricio4.jpg',
+        src: mauricio4,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/mauricio/mauricio5.jpg',
+        src: mauricio5,
         filter: {
           papel: ['preto']
         }
       },
       {
-        src: '/assets/artists/mauricio/mauricio6.jpg'
+        src: mauricio6
       }
     ]
   },
@@ -503,37 +624,37 @@ export default [
     composicao: ['clichê'],
     images: [
       {
-        src: '/assets/artists/mayra/mayra1.jpg',
+        src: mayra1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/mayra/mayra2.jpg',
+        src: mayra2,
         filter: {
           papel: ['cinza']
         }
       },
       {
-        src: '/assets/artists/mayra/mayra3.jpg',
+        src: mayra3,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/mayra/mayra4.jpg',
+        src: mayra4,
         filter: {
           papel: ['laranja']
         }
       },
       {
-        src: '/assets/artists/mayra/mayra5.jpg',
+        src: mayra5,
         filter: {
           papel: ['preto']
         }
       },
       {
-        src: '/assets/artists/mayra/mayra6.jpg'
+        src: mayra6
       }
     ]
   },
@@ -544,37 +665,37 @@ export default [
     composicao: ['clichê'],
     images: [
       {
-        src: '/assets/artists/philippe/philippe1.jpg',
+        src: philippe1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/philippe/philippe2.jpg',
+        src: philippe2,
         filter: {
           matriz: ['cliche']
         }
       },
       {
-        src: '/assets/artists/philippe/philippe3.jpg',
+        src: philippe3,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/philippe/philippe4.jpg',
+        src: philippe4,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/philippe/philippe5.jpg',
+        src: philippe5,
         filter: {
           papel: ['laranja']
         }
       },
       {
-        src: '/assets/artists/philippe/philippe6.jpg'
+        src: philippe6
       }
     ]
   },
@@ -585,34 +706,34 @@ export default [
     composicao: ['clichê'],
     images: [
       {
-        src: '/assets/artists/regi/regi1.jpg',
+        src: regi1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/regi/regi2.jpg',
+        src: regi2,
         filter: {
           papel: ['cinza']
         }
       },
       {
-        src: '/assets/artists/regi/regi3.jpg',
+        src: regi3,
         filter: {
           papel: ['laranja']
         }
       },
       {
-        src: '/assets/artists/regi/regi4.jpg'
+        src: regi4
       },
       {
-        src: '/assets/artists/regi/regi5.jpg',
+        src: regi5,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/regi/regi6.jpg',
+        src: regi6,
         filter: {
           papel: ['transparente']
         }
@@ -626,34 +747,34 @@ export default [
     composicao: ['ornamentos'],
     images: [
       {
-        src: '/assets/artists/renato/renato1.jpg',
+        src: renato1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/renato/renato2.jpg',
+        src: renato2,
         filter: {
           matriz: ['tipos']
         }
       },
       {
-        src: '/assets/artists/renato/renato3.jpg',
+        src: renato3,
         filter: {
           papel: ['laranja']
         }
       },
       {
-        src: '/assets/artists/renato/renato4.jpg'
+        src: renato4
       },
       {
-        src: '/assets/artists/renato/renato5.jpg',
+        src: renato5,
         filter: {
           papel: ['preto']
         }
       },
       {
-        src: '/assets/artists/renato/renato6.jpg',
+        src: renato6,
         filter: {
           papel: ['branco']
         }
@@ -668,34 +789,34 @@ export default [
     intervencao: ['carimbo'],
     images: [
       {
-        src: '/assets/artists/rinaldo/rinaldo1.jpg',
+        src: rinaldo1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/rinaldo/rinaldo2.jpg'
+        src: rinaldo2
       },
       {
-        src: '/assets/artists/rinaldo/rinaldo3.jpg',
+        src: rinaldo3,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/rinaldo/rinaldo4.jpg',
+        src: rinaldo4,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/rinaldo/rinaldo5.jpg',
+        src: rinaldo5,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/rinaldo/rinaldo6.jpg',
+        src: rinaldo6,
         filter: {
           papel: ['transparente']
         }
@@ -710,37 +831,37 @@ export default [
     intervencao: ['carimbo'],
     images: [
       {
-        src: '/assets/artists/rosangela/rosangela1.jpg',
+        src: rosangela1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/rosangela/rosangela2.jpg',
+        src: rosangela2,
         filter: {
           matriz: ['cliche']
         }
       },
       {
-        src: '/assets/artists/rosangela/rosangela3.jpg',
+        src: rosangela3,
         filter: {
           papel: ['kraft']
         }
       },
       {
-        src: '/assets/artists/rosangela/rosangela4.jpg',
+        src: rosangela4,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/rosangela/rosangela5.jpg',
+        src: rosangela5,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/rosangela/rosangela6.jpg',
+        src: rosangela6,
         filter: {
           papel: ['transparente']
         }
@@ -754,37 +875,37 @@ export default [
     composicao: ['clichê'],
     images: [
       {
-        src: '/assets/artists/sofia/sofia1.jpg',
+        src: sofia1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/sofia/sofia2.jpg',
+        src: sofia2,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/sofia/sofia3.jpg',
+        src: sofia3,
         filter: {
           papel: ['cinza']
         }
       },
       {
-        src: '/assets/artists/sofia/sofia4.jpg',
+        src: sofia4,
         filter: {
           papel: ['laranja']
         }
       },
       {
-        src: '/assets/artists/sofia/sofia5.jpg',
+        src: sofia5,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/sofia/sofia6.jpg'
+        src: sofia6
       }
     ]
   },
@@ -796,34 +917,34 @@ export default [
     intervencao: ['digital', 'nanquim', 'estêncil'],
     images: [
       {
-        src: '/assets/artists/vico/vico1.jpg',
+        src: vico1,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/vico/vico2.jpg'
+        src: vico2
       },
       {
-        src: '/assets/artists/vico/vico3.jpg',
+        src: vico3,
         filter: {
           papel: ['transparente']
         }
       },
       {
-        src: '/assets/artists/vico/vico4.jpg',
+        src: vico4,
         filter: {
           papel: ['branco']
         }
       },
       {
-        src: '/assets/artists/vico/vico5.jpg',
+        src: vico5,
         filter: {
           papel: ['preto']
         }
       },
       {
-        src: '/assets/artists/vico/vico6.jpg',
+        src: vico6,
         filter: {
           papel: ['preto']
         }

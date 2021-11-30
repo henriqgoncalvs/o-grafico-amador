@@ -8,6 +8,9 @@ import {
 } from '@chakra-ui/react'
 import React from 'react'
 
+import apoio from '../assets/apoio.png'
+import incentivo from '../assets/incentivo.png'
+import realizacao from '../assets/realização.png'
 import { ArtCard } from '../components/ArtCard'
 import { artistsCards } from '../data'
 
@@ -36,9 +39,9 @@ const Home = () => (
         mb={{ base: 5, lg: 0 }}
         mr="-4"
       >
-        <Box bgImage="/assets/incentivo.png" bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.4 }} h="full" w="full" />
-        <Box bgImage="/assets/realização.png" bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={1} h="full" w="full" />
-        <Box bgImage="/assets/apoio.png" bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.3 }} h="full" w="full" mt={{ base: 5, lg: 0 }} />
+        <Box bgImage={incentivo} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.4 }} h="full" w="full" />
+        <Box bgImage={realizacao} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={1} h="full" w="full" />
+        <Box bgImage={apoio} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.3 }} h="full" w="full" mt={{ base: 5, lg: 0 }} />
         {/* <Image src="/assets/incentivo.png" h="100px" w="full" flex={1} mx="auto" py={10} /> */}
         {/* <Image src="/assets/realização.png" h="100px" w="full" mx="auto" py={10} flex={1} /> */}
         {/* <Image src="/assets/apoio.png" h="100px" w="full" mx="auto" py={10} flex={1} /> */}

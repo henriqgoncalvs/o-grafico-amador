@@ -1,5 +1,6 @@
 import { Box, Flex } from '@chakra-ui/layout'
 import { css } from '@emotion/react'
+import React from 'react'
 import ReactPlayer from 'react-player/youtube'
 
 const TecnicaTipografica = () => {
