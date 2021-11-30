@@ -43,7 +43,7 @@ export const Navbar = () => {
         alignItems="flex-start"
       >
         <Link
-          to="/audiodescricao"
+          to="./audiodescricao"
 
         >
 

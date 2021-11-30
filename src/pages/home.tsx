@@ -29,7 +29,7 @@ const Home = () => (
       ))}
     </SimpleGrid>
 
-    <VStack maxW="1100px" ml="auto" alignItems="flex-end" px="60px" mt="12" mb="-10">
+    <VStack h={{ base: 'auto', lg: '93px' }} ml="auto" alignItems="flex-end" px="60px" mt="12" mb="-10">
       <Flex
         flexDirection={{ base: 'column', lg: 'row' }}
         w="full"
