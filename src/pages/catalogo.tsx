@@ -5,14 +5,14 @@ import React from 'react'
 import Zoom from 'react-medium-image-zoom'
 import 'react-medium-image-zoom/dist/styles.css'
 
-import catAcrilico1 from '../assets/catalogos/catAcrilico1.jpg'
-import catAcrilico2 from '../assets/catalogos/catAcrilico2.jpg'
-import catAcrilico3 from '../assets/catalogos/catAcrilico3.jpg'
-import catAcrilico4 from '../assets/catalogos/catAcrilico4.jpg'
-import catPapel1 from '../assets/catalogos/catPapel1.jpg'
-import catPapel2 from '../assets/catalogos/catPapel2.jpg'
-import catPapel3 from '../assets/catalogos/catPapel3.jpg'
-import catPapel4 from '../assets/catalogos/catPapel4.jpg'
+// import catAcrilico1 from '/assets/catalogos/catAcrilico1.jpg'
+// import catAcrilico2 from '/assets/catalogos/catAcrilico2.jpg'
+// import catAcrilico3 from '/assets/catalogos/catAcrilico3.jpg'
+// import catAcrilico4 from '/assets/catalogos/catAcrilico4.jpg'
+// import catPapel1 from '/assets/catalogos/catPapel1.jpg'
+// import catPapel2 from '/assets/catalogos/catPapel2.jpg'
+// import catPapel3 from '/assets/catalogos/catPapel3.jpg'
+// import catPapel4 from '/assets/catalogos/catPapel4.jpg'
 
 const OCatalogo = () => {
   return (
@@ -30,28 +30,28 @@ const OCatalogo = () => {
           <Zoom wrapStyle={{
             width: '100%'
           }}>
-            <Image src={catAcrilico1} w="full" />
+            <Image src={'/assets/catalogos/catAcrilico1.jpg'} w="full" />
           </Zoom>
         </GridItem>
         <GridItem>
           <Zoom wrapStyle={{
             width: '100%'
           }}>
-            <Image src={catAcrilico2} w="full" />
+            <Image src={'/assets/catalogos/catAcrilico2.jpg'} w="full" />
           </Zoom>
         </GridItem>
         <GridItem>
           <Zoom wrapStyle={{
             width: '100%'
           }}>
-            <Image src={catAcrilico3} w="full" />
+            <Image src={'/assets/catalogos/catAcrilico3.jpg'} w="full" />
           </Zoom>
         </GridItem>
         <GridItem>
           <Zoom wrapStyle={{
             width: '100%'
           }}>
-            <Image src={catAcrilico4} w="full" />
+            <Image src={'/assets/catalogos/catAcrilico4.jpg'} w="full" />
           </Zoom>
         </GridItem>
       </SimpleGrid>
@@ -73,28 +73,28 @@ const OCatalogo = () => {
           <Zoom wrapStyle={{
             width: '100%'
           }}>
-            <Image src={catPapel1} w="full" />
+            <Image src={'/assets/catalogos/catPapel1.jpg'} w="full" />
           </Zoom>
         </GridItem>
         <GridItem>
           <Zoom wrapStyle={{
             width: '100%'
           }}>
-            <Image src={catPapel2} w="full" />
+            <Image src={'/assets/catalogos/catPapel2.jpg'} w="full" />
           </Zoom>
         </GridItem>
         <GridItem>
           <Zoom wrapStyle={{
             width: '100%'
           }}>
-            <Image src={catPapel3} w="full" />
+            <Image src={'/assets/catalogos/catPapel3.jpg'} w="full" />
           </Zoom>
         </GridItem>
         <GridItem>
           <Zoom wrapStyle={{
             width: '100%'
           }}>
-            <Image src={catPapel4} w="full" />
+            <Image src={'/assets/catalogos/catPapel4.jpg'} w="full" />
           </Zoom>
         </GridItem>
       </SimpleGrid>

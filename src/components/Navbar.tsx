@@ -10,7 +10,7 @@ import React from 'react'
 import { MdKeyboardArrowDown } from 'react-icons/md'
 import { Link, useLocation } from 'react-router-dom'
 
-import logo from '../assets/logo.jpg'
+// import logo from '../assets/logo.jpg'
 import { artistsCards } from '../data'
 
 export const Navbar = () => {
@@ -29,7 +29,7 @@ export const Navbar = () => {
     >
       <Link to="/">
         <Box mb={{ base: 5, lg: 0 }} ml="-3" cursor="pointer">
-          <Image src={logo} width="259px" />
+          <Image src="/assets/logo.jpg" width="259px" />
         </Box>
       </Link>
 

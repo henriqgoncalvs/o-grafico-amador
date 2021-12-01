@@ -4,13 +4,14 @@ import {
   SimpleGrid,
   GridItem,
   VStack,
+  Image,
   Flex
 } from '@chakra-ui/react'
 import React from 'react'
 
-import apoio from '../assets/apoio.png'
-import incentivo from '../assets/incentivo.png'
-import realizacao from '../assets/realização.png'
+// import apoio from '../assets/apoio.png'
+// import incentivo from '../assets/incentivo.png'
+// import realizacao from '../assets/realização.png'
 import { ArtCard } from '../components/ArtCard'
 import { artistsCards } from '../data'
 
@@ -29,7 +30,7 @@ const Home = () => (
       ))}
     </SimpleGrid>
 
-    <VStack h={{ base: 'auto', lg: '93px' }} ml="auto" alignItems="flex-end" px="60px" mt="12" mb="-10">
+    <VStack h={{ base: 'auto', lg: '93px' }} ml="auto" alignItems="flex-end" px="60px" mt="24" mb="-10">
       <Flex
         flexDirection={{ base: 'column', lg: 'row' }}
         w="full"
@@ -39,12 +40,12 @@ const Home = () => (
         mb={{ base: 5, lg: 0 }}
         mr="-4"
       >
-        <Box bgImage={incentivo} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.4 }} h="full" w="full" />
-        <Box bgImage={realizacao} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={1} h="full" w="full" />
-        <Box bgImage={apoio} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.3 }} h="full" w="full" mt={{ base: 5, lg: 0 }} />
-        {/* <Image src="/assets/incentivo.png" h="100px" w="full" flex={1} mx="auto" py={10} /> */}
-        {/* <Image src="/assets/realização.png" h="100px" w="full" mx="auto" py={10} flex={1} /> */}
-        {/* <Image src="/assets/apoio.png" h="100px" w="full" mx="auto" py={10} flex={1} /> */}
+        {/* <Box bgImage={incentivo} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.4 }} h="full" w="full" /> */}
+        {/* <Box bgImage={realizacao} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={1} h="full" w="full" /> */}
+        {/* <Box bgImage={apoio} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.3 }} h="full" w="full" mt={{ base: 5, lg: 0 }} /> */}
+        <Image src="/assets/incentivo.png" h="auto" w="full" flex={{ base: 1, lg: 2.4 }} mx="auto" py={10} />
+        <Image src="/assets/realização.png" h="auto" w="full" mx="auto" py={10} flex={1} />
+        <Image src="/assets/apoio.png" h="auto" w="auto" mx="auto" py={10} flex={{ base: 1, lg: 2 }} />
       </Flex>
     </VStack>
   </Box>

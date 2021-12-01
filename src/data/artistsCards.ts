@@ -1,27 +1,27 @@
-import ana1 from '../assets/artists/ana/ana1.jpg'
-import camilo1 from '../assets/artists/camilo/camilo1.jpg'
-import clara1 from '../assets/artists/clara/clara1.jpg'
-import daniel1 from '../assets/artists/daniel/daniel1.jpg'
-import edna1 from '../assets/artists/edna/edna1.jpg'
-import filipe1 from '../assets/artists/filipe/filipe1.jpg'
-import isabela1 from '../assets/artists/isabela/isabela1.jpg'
-import jessica1 from '../assets/artists/jessica/jessica1.jpg'
-import juliana1 from '../assets/artists/juliana/juliana1.jpg'
-import larissa1 from '../assets/artists/larissa/larissa1.jpg'
-import mariajulia1 from '../assets/artists/mariajulia/mariajulia1.jpg'
-import mauricio1 from '../assets/artists/mauricio/mauricio1.jpg'
-import mayra1 from '../assets/artists/mayra/mayra1.jpg'
-import philippe1 from '../assets/artists/philippe/philippe1.jpg'
-import regi1 from '../assets/artists/regi/regi1.jpg'
-import renato1 from '../assets/artists/renato/renato1.jpg'
-import rinaldo1 from '../assets/artists/rinaldo/rinaldo1.jpg'
-import rosangela1 from '../assets/artists/rosangela/rosangela1.jpg'
-import sofia1 from '../assets/artists/sofia/sofia1.jpg'
-import vico1 from '../assets/artists/vico/vico1.jpg'
+// import ana1 from '/assets/artists/ana/ana1.jpg'
+// import camilo1 from '/assets/artists/camilo/camilo1.jpg'
+// import clara1 from '/assets/artists/clara/clara1.jpg'
+// import daniel1 from '/assets/artists/daniel/daniel1.jpg'
+// import edna1 from '/assets/artists/edna/edna1.jpg'
+// import filipe1 from '/assets/artists/filipe/filipe1.jpg'
+// import isabela1 from '/assets/artists/isabela/isabela1.jpg'
+// import jessica1 from '/assets/artists/jessica/jessica1.jpg'
+// import juliana1 from '/assets/artists/juliana/juliana1.jpg'
+// import larissa1 from '/assets/artists/larissa/larissa1.jpg'
+// import mariajulia1 from '/assets/artists/mariajulia/mariajulia1.jpg'
+// import mauricio1 from '/assets/artists/mauricio/mauricio1.jpg'
+// import mayra1 from '/assets/artists/mayra/mayra1.jpg'
+// import philippe1 from '/assets/artists/philippe/philippe1.jpg'
+// import regi1 from '/assets/artists/regi/regi1.jpg'
+// import renato1 from '/assets/artists/renato/renato1.jpg'
+// import rinaldo1 from '/assets/artists/rinaldo/rinaldo1.jpg'
+// import rosangela1 from '/assets/artists/rosangela/rosangela1.jpg'
+// import sofia1 from '/assets/artists/sofia/sofia1.jpg'
+// import vico1 from '/assets/artists/vico/vico1.jpg'
 
 export const artistsCards = [
   {
-    bgImg: ana1,
+    bgImg: '/assets/artists/ana/ana1.jpg',
     artistName: 'Ana Kossoski',
     id: 'ana',
     description: 'Composição com tipos',
@@ -32,7 +32,7 @@ export const artistsCards = [
     –”.`
   },
   {
-    bgImg: camilo1,
+    bgImg: '/assets/artists/camilo/camilo1.jpg',
     artistName: 'Camilo Maia',
     id: 'camilo',
     description: 'Composição com tipos',
@@ -55,7 +55,7 @@ export const artistsCards = [
     Lucros Odiar”.`
   },
   {
-    bgImg: clara1,
+    bgImg: '/assets/artists/clara/clara1.jpg',
     artistName: 'Clara Simas',
     id: 'clara',
     description: 'Composição com tipos, clichê de MDF',
@@ -71,7 +71,7 @@ export const artistsCards = [
     um seio com mamilo ereto, corpos; um pênis flácido, redhead; mancha arredondada com três pontas, latina; uma ducha higiênica, indoor; outro plug anal, gothic; outro vibrador duplo, bold.</small>`
   },
   {
-    bgImg: daniel1,
+    bgImg: '/assets/artists/daniel/daniel1.jpg',
     artistName: 'Daniel Santiago',
     id: 'daniel',
     description: 'Composição com tipos e ornamento, clichê tipográfico',
@@ -92,7 +92,7 @@ export const artistsCards = [
     uma assinatura em preto.`
   },
   {
-    bgImg: edna1,
+    bgImg: '/assets/artists/edna/edna1.jpg',
     artistName: 'Edna Lucia Cunha Lima',
     id: 'edna',
     description: 'Composição com tipos e fios',
@@ -125,7 +125,7 @@ export const artistsCards = [
     HENRIQUE ROSA”`
   },
   {
-    bgImg: filipe1,
+    bgImg: '/assets/artists/filipe/filipe1.jpg',
     artistName: 'Filipe Aca',
     id: 'filipe',
     description: 'Composição com tipos',
@@ -135,7 +135,7 @@ export const artistsCards = [
     sinais gráficos e números, com variação de letras maiúsculas e minúsculas.`
   },
   {
-    bgImg: isabela1,
+    bgImg: '/assets/artists/isabela/isabela1.jpg',
     artistName: 'Isabela Stampanoni',
     id: 'isabela',
     description: 'Composição com tipos, fios e ornamentos; clichê de linóleo e desenho em nanquim',
@@ -151,7 +151,7 @@ export const artistsCards = [
     fonotropismo coclear estribo ritual concha sonoridade”. No canto inferior direito, assinatura de Isabela Stampanoni.`
   },
   {
-    bgImg: jessica1,
+    bgImg: '/assets/artists/jessica/jessica1.jpg',
     artistName: 'Jéssica Paiva',
     id: 'jessica',
     description: 'Composição com tipos, clichê de MDF',
@@ -168,7 +168,7 @@ export const artistsCards = [
     No canto inferior direito a assinatura de Jéssica Paiva.`
   },
   {
-    bgImg: juliana1,
+    bgImg: '/assets/artists/juliana/juliana1.jpg',
     artistName: 'Juliana Dias',
     id: 'juliana',
     description: 'Texto de Bráulio Bessa. Composição com tipos',
@@ -178,7 +178,7 @@ export const artistsCards = [
     É hora do recomeço”. No canto inferior direito em azul: “recomece...”.`
   },
   {
-    bgImg: larissa1,
+    bgImg: '/assets/artists/larissa/larissa1.jpg',
     artistName: 'Larissa Constantino',
     id: 'larissa',
     description: 'Composição com tipos, clichê de linóleo',
@@ -188,7 +188,7 @@ export const artistsCards = [
     vezes, estão sobrepostas sob a calda, acima e a frente da cabeça dela.`
   },
   {
-    bgImg: mariajulia1,
+    bgImg: '/assets/artists/mariajulia/mariajulia1.jpg',
     artistName: 'Maria Júlia Rêgo',
     id: 'mariajulia',
     description: 'Composição com tipos, carimbo',
@@ -201,7 +201,7 @@ export const artistsCards = [
     data: “2.19”, no direito.`
   },
   {
-    bgImg: mauricio1,
+    bgImg: '/assets/artists/mauricio/mauricio1.jpg',
     artistName: 'Maurício Castro',
     id: 'mauricio',
     description: 'Composição com tipos, clichê de linóleo',
@@ -218,7 +218,7 @@ export const artistsCards = [
     Castro.`
   },
   {
-    bgImg: mayra1,
+    bgImg: '/assets/artists/mayra/mayra1.jpg',
     artistName: 'Mayra Melo',
     id: 'mayra',
     description: 'Composição com tipos, clichê de linóleo',
@@ -234,7 +234,7 @@ export const artistsCards = [
     No canto inferior direito, a assinatura.`
   },
   {
-    bgImg: philippe1,
+    bgImg: '/assets/artists/philippe/philippe1.jpg',
     artistName: 'Philippe Souza',
     id: 'philippe',
     description: 'Composição com tipos, clichê de linóleo',
@@ -249,7 +249,7 @@ export const artistsCards = [
     direitos humanos.”`
   },
   {
-    bgImg: regi1,
+    bgImg: '/assets/artists/regi/regi1.jpg',
     artistName: 'Régi Silva',
     id: 'regi',
     description: 'Composição com tipos',
@@ -264,7 +264,7 @@ export const artistsCards = [
     justiça subjetividades liberdade mudança barulho.”`
   },
   {
-    bgImg: renato1,
+    bgImg: '/assets/artists/renato/renato1.jpg',
     artistName: 'Renato Valle',
     id: 'renato',
     description: 'Composição com ornamentos',
@@ -274,7 +274,7 @@ export const artistsCards = [
     que possuem três pequenas decorações arredondadas na ponta.`
   },
   {
-    bgImg: rinaldo1,
+    bgImg: '/assets/artists/rinaldo/rinaldo1.jpg',
     artistName: 'Rinaldo Silva',
     id: 'rinaldo',
     description: 'Composição com tipos e ornamentos; clichê de PVC expandido, carimbo',
@@ -295,7 +295,7 @@ export const artistsCards = [
     vermelha de uma pessoa com os braços para cima e pernas abertas.`
   },
   {
-    bgImg: rosangela1,
+    bgImg: '/assets/artists/rosangela/rosangela1.jpg',
     artistName: 'Rosângela Vieira',
     id: 'rosangela',
     description: 'Composição com tipos, clichê de barbante, carimbo',
@@ -308,7 +308,7 @@ export const artistsCards = [
     inferior direito, a assinatura.`
   },
   {
-    bgImg: sofia1,
+    bgImg: '/assets/artists/sofia/sofia1.jpg',
     artistName: 'Sofia L\'amour',
     id: 'sofia',
     description: 'Texto de Ana Martins Marques. Composição com tipos, clichê de MDF',
@@ -339,7 +339,7 @@ export const artistsCards = [
     vírgulas, pontos, parênteses, aspas e muitos outros.`
   },
   {
-    bgImg: vico1,
+    bgImg: '/assets/artists/vico/vico1.jpg',
     artistName: 'Vico Soares',
     id: 'vico',
     description: 'Composição com tipos, estêncil, digital, desenho em nanquim',
