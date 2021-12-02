@@ -10,6 +10,7 @@
 
 # production
 /build
+/experimentando_tipos_static
 
 # misc
 .DS_Store
