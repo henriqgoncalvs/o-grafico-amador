@@ -34,11 +34,11 @@ const Participante = () => {
 
   return (
     <Flex maxW="container.lg" mr="auto" mx="60px" flexDirection="column">
-      <Text fontSize="md" fontWeight="bold" mb={1}>/ {artistsCards.find(artist => artist?.id === artistName)?.artistName}</Text>
-      <Text fontSize="md" mb={10}>{artistsCards.find(artist => artist?.id === artistName)?.description}</Text>
+      <Text fontSize="md" fontWeight="bold" mb={1}>/ {artistsCards?.find(artist => artist?.id === artistName)?.artistName}</Text>
+      <Text fontSize="md" mb={10}>{artistsCards?.find(artist => artist?.id === artistName)?.description}</Text>
 
       <SimpleGrid columns={[1, 2]} w="full" mx="auto" spacingY={5} spacingX={5}>
-        {artistsImages.filter(artist => artist?.id === artistName)[0]?.images?.map(image => (
+        {artistsImages?.filter(artist => artist?.id === artistName)[0]?.images?.map(image => (
           <GridItem key={image.src}>
             <Zoom wrapStyle={{
               width: '100%'
