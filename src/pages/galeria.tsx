@@ -15,6 +15,7 @@ import artistsImages from '../data/artistsImages'
 const Participante = () => {
   const location = useLocation()
 
+  console.log(location)
   const artistName = location?.pathname?.split('/')[2]
 
   const artistIndex = artistsCards.findIndex(artist => artist?.id === artistName)
