@@ -30,22 +30,22 @@ const Home = () => (
       ))}
     </SimpleGrid>
 
-    <VStack h={{ base: 'auto', lg: '93px' }} ml="auto" alignItems="flex-end" px="60px" mt="24" mb="-10">
+    <VStack h={{ base: 'auto', lg: '80px' }} ml="auto" alignItems="flex-end" px="60px" mt={{ base: 12, lg: 24 }} mb="-10">
       <Flex
         flexDirection={{ base: 'column', lg: 'row' }}
         w="full"
         alignItems="flex-end"
         justifyContent="space-between"
-        h={{ base: '200px', lg: '80px' }}
+        h={{ base: 'auto', lg: '80px' }}
         mb={{ base: 5, lg: 0 }}
         mr="-4"
       >
         {/* <Box bgImage={incentivo} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.4 }} h="full" w="full" /> */}
         {/* <Box bgImage={realizacao} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={1} h="full" w="full" /> */}
         {/* <Box bgImage={apoio} bgPosition="top" mx={3} bgSize="contain" bgRepeat="no-repeat" flex={{ base: 1, lg: 2.3 }} h="full" w="full" mt={{ base: 5, lg: 0 }} /> */}
-        <Image src="/assets/incentivo.png" h="auto" w="full" flex={{ base: 1, lg: 2.4 }} mx="auto" py={10} />
-        <Image src="/assets/realização.png" h="auto" w="full" mx="auto" py={10} flex={1} />
-        <Image src="/assets/apoio.png" h="auto" w="auto" mx="auto" py={10} flex={{ base: 1, lg: 2 }} />
+        <Image src="/assets/incentivo.png" h="auto" w="auto" mx="auto" py={10} />
+        <Image src="/assets/realização.png" h="auto" w="auto" mx="auto" py={10} maxW={{ base: 220, sm: 'full' }} />
+        <Image src="/assets/apoio.png" h="auto" w="auto" mx="auto" py={10} />
       </Flex>
     </VStack>
   </Box>
