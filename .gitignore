@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/experimentando_tipos_static
+/build
 
 # misc
 .DS_Store
